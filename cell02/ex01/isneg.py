@@ -1,10 +1,7 @@
 value = int(input())
-
 if value > 0:
-    print("This number is positive.")
-
+	print("This number is positive.")
 elif value < 0:
-    print("This number is negative.")
-
+	print("This number is negative.")
 else:
-    print("This number is both postive and negative.")
+	print("This number is both positive and negative.")
